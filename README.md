@@ -1,3 +1,4 @@
+#This project is still basic Angular template
 # WorkSome
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
